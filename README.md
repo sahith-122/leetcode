@@ -11,8 +11,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sahith-122/leetcode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/sahith-122/leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sahith-122/leetcode/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sahith-122/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sahith-122/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
