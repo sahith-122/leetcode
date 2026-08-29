@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sahith-122/leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/sahith-122/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sahith-122/leetcode/tree/master/0169-majority-element) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahith-122/leetcode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/sahith-122/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
