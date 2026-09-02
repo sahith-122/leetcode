@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sahith-122/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sahith-122/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sahith-122/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/sahith-122/leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/sahith-122/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sahith-122/leetcode/tree/master/0509-fibonacci-number) |
 ## String
@@ -101,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sahith-122/leetcode/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/sahith-122/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/sahith-122/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
