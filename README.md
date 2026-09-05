@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sahith-122/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sahith-122/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sahith-122/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahith-122/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sahith-122/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sahith-122/leetcode/tree/master/0258-add-digits) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sahith-122/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sahith-122/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/sahith-122/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/sahith-122/leetcode/tree/master/0704-binary-search) |
 ## String Matching
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahith-122/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sahith-122/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
