@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sahith-122/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sahith-122/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
 | [2032-two-out-of-three](https://github.com/sahith-122/leetcode/tree/master/2032-two-out-of-three) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
 ## Math
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sahith-122/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/sahith-122/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sahith-122/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sahith-122/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sahith-122/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sahith-122/leetcode/tree/master/0367-valid-perfect-square) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sahith-122/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sahith-122/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sahith-122/leetcode/tree/master/0342-power-of-four) |
 | [2032-two-out-of-three](https://github.com/sahith-122/leetcode/tree/master/2032-two-out-of-three) |
 ## Recursion
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahith-122/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sahith-122/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sahith-122/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sahith-122/leetcode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/sahith-122/leetcode/tree/master/0704-binary-search) |
 | [2032-two-out-of-three](https://github.com/sahith-122/leetcode/tree/master/2032-two-out-of-three) |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahith-122/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sahith-122/leetcode/tree/master/0414-third-maximum-number) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
@@ -116,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sahith-122/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sahith-122/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sahith-122/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/sahith-122/leetcode/tree/master/0704-binary-search) |
 ## String Matching
