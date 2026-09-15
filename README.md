@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sahith-122/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sahith-122/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sahith-122/leetcode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/sahith-122/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/sahith-122/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sahith-122/leetcode/tree/master/0509-fibonacci-number) |
 | [3099-harshad-number](https://github.com/sahith-122/leetcode/tree/master/3099-harshad-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sahith-122/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0383-ransom-note](https://github.com/sahith-122/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/sahith-122/leetcode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/sahith-122/leetcode/tree/master/0504-base-7) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
