@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sahith-122/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sahith-122/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sahith-122/leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/sahith-122/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/sahith-122/leetcode/tree/master/0383-ransom-note) |
 | [2032-two-out-of-three](https://github.com/sahith-122/leetcode/tree/master/2032-two-out-of-three) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahith-122/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sahith-122/leetcode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/sahith-122/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/sahith-122/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sahith-122/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/sahith-122/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/sahith-122/leetcode/tree/master/0504-base-7) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sahith-122/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sahith-122/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sahith-122/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sahith-122/leetcode/tree/master/0414-third-maximum-number) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
