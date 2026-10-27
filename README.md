@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sahith-122/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sahith-122/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/sahith-122/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sahith-122/leetcode/tree/master/0383-ransom-note) |
 | [2032-two-out-of-three](https://github.com/sahith-122/leetcode/tree/master/2032-two-out-of-three) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sahith-122/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/sahith-122/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/sahith-122/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/sahith-122/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sahith-122/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/sahith-122/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/sahith-122/leetcode/tree/master/0504-base-7) |
