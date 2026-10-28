@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sahith-122/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sahith-122/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/sahith-122/leetcode/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/sahith-122/leetcode/tree/master/2032-two-out-of-three) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
 ## Math
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sahith-122/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sahith-122/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sahith-122/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/sahith-122/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/sahith-122/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/sahith-122/leetcode/tree/master/0504-base-7) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sahith-122/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sahith-122/leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/sahith-122/leetcode/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/sahith-122/leetcode/tree/master/2032-two-out-of-three) |
 ## Recursion
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahith-122/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sahith-122/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sahith-122/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sahith-122/leetcode/tree/master/0414-third-maximum-number) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
