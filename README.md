@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sahith-122/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sahith-122/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sahith-122/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sahith-122/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sahith-122/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/sahith-122/leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/sahith-122/leetcode/tree/master/0504-base-7) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sahith-122/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sahith-122/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sahith-122/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sahith-122/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
