@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sahith-122/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sahith-122/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sahith-122/leetcode/tree/master/0389-find-the-difference) |
+| [0819-most-common-word](https://github.com/sahith-122/leetcode/tree/master/0819-most-common-word) |
 | [2032-two-out-of-three](https://github.com/sahith-122/leetcode/tree/master/2032-two-out-of-three) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
 ## Math
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sahith-122/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/sahith-122/leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/sahith-122/leetcode/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/sahith-122/leetcode/tree/master/0819-most-common-word) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
 ## Bit Manipulation
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sahith-122/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sahith-122/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/sahith-122/leetcode/tree/master/0704-binary-search) |
+| [0819-most-common-word](https://github.com/sahith-122/leetcode/tree/master/0819-most-common-word) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahith-122/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2032-two-out-of-three](https://github.com/sahith-122/leetcode/tree/master/2032-two-out-of-three) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sahith-122/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sahith-122/leetcode/tree/master/0383-ransom-note) |
+| [0819-most-common-word](https://github.com/sahith-122/leetcode/tree/master/0819-most-common-word) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
