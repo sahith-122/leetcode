@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sahith-122/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sahith-122/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahith-122/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/sahith-122/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahith-122/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sahith-122/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sahith-122/leetcode/tree/master/0169-majority-element) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahith-122/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/sahith-122/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahith-122/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/sahith-122/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
