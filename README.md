@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sahith-122/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sahith-122/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sahith-122/leetcode/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahith-122/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0819-most-common-word](https://github.com/sahith-122/leetcode/tree/master/0819-most-common-word) |
 | [2032-two-out-of-three](https://github.com/sahith-122/leetcode/tree/master/2032-two-out-of-three) |
 | [2418-sort-the-people](https://github.com/sahith-122/leetcode/tree/master/2418-sort-the-people) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahith-122/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahith-122/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sahith-122/leetcode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahith-122/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sahith-122/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/sahith-122/leetcode/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/sahith-122/leetcode/tree/master/0819-most-common-word) |
