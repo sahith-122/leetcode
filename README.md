@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahith-122/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sahith-122/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/sahith-122/leetcode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/sahith-122/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/sahith-122/leetcode/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/sahith-122/leetcode/tree/master/0819-most-common-word) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahith-122/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sahith-122/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sahith-122/leetcode/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/sahith-122/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/sahith-122/leetcode/tree/master/0657-robot-return-to-origin) |
 ## Number Theory
 |  |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sahith-122/leetcode/tree/master/0561-array-partition) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/sahith-122/leetcode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
