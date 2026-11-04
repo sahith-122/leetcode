@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sahith-122/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/sahith-122/leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/sahith-122/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/sahith-122/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sahith-122/leetcode/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/sahith-122/leetcode/tree/master/0819-most-common-word) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahith-122/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sahith-122/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/sahith-122/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Interactive
 |  |
 | ------- |
